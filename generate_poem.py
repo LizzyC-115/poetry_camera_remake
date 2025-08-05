@@ -1,6 +1,6 @@
 from google import genai
 
-API_KEY = "AIzaSyA7PAHeAOothlEnInk59m5y9gioi7Z5zC8"
+API_KEY = "API KEY HERE"
 
 STYLES = ["Haiku", "Cinquain", "Limerick", "Tanka"]
 
